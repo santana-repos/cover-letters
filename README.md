@@ -71,6 +71,9 @@ Now, I’m eager to assist you in enhancing your business journey and achieving 
 
 ☑️ Dev and Integration Solutions: Kubernetes, Docker, Wiremocks, FakeSMTP, WSL2 env, Elastic Stack, Aws CloudWatch, Grafana, Maven, RethinkDB, MongoDB, MySql, Postgres, SQLServer, Oracle DB, Wordpress
 
-☑️ HTTPS Servers: Apache HTTP, Tomcat, Weblogic, Websphere, JBoss, Nginx ☑️ OS: Linux, MacOs, Windows
+☑️ HTTPS Servers: Apache HTTP, Tomcat, Weblogic, Websphere, JBoss, Nginx 
+
+☑️ OS: Linux, MacOs, Windows
+
 
 Let’s join forces and create something extraordinary together!
