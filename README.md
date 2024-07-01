@@ -32,12 +32,17 @@ Now, I’m eager to assist you in enhancing your business journey and achieving 
 ☑️ Mulesoft-Integration/API Associate  
 
 
-- *Expertises*:
+*Expertises*:
 ☑️ Programming: JS, Java, Golang, Python, Dart, SQL, Batch Script, ANSI C, HTML
+
 - [JS] NodeJs, openapi-backend, axios, aws-serverless, express
+
 - [Java] Quarkus, SpringBoot, Cucumber, Junit5, Java EE, Spring, Jmeter, ActiveMQ, Hibernate, Orika, Struts and more
+
 - [Golang] GoGiber, Go Cobra
+
 - [Python] flask_express, Flask, Django, Connexion
+
 - [Dart] Flutter V2 + v3
 
 ☑️ SRE: Git, IaC (Terraform), Github Actions, AWS, Gitlab, Jenkins
